@@ -13,7 +13,7 @@ By combining Python for data generation, SQL for anomaly detection, and Excel fo
 ## Executive Summary & Analysis Results
 The SQL analysis successfully identified duplicate verification jobs that bypassed standard validation. By quantifying this, I uncovered the following key metrics:
 * **Total Duplicate Verification Jobs:** 500
-* **Total Estimated Financial Leakage:** $7,750.00
+* **Total Estimated Financial Leakage:** ₦7,750.00
 
 Further root cause analysis revealed that a small cluster of field agents drove the majority of these errors. For instance, **AGT-035** alone was responsible for 18 duplicate submissions, resulting in $279.00 of leakage.
 
