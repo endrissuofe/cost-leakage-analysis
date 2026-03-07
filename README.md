@@ -1,4 +1,4 @@
-# Operational Duplicate Detection and Cost Leakage Analysis 💰
+# Operational Duplicate Detection and Cost Leakage Analysis
 
 ## Project Overview
 In data operations, duplicate records don't just skew reporting—they can lead to direct financial loss. This project simulates a real-world scenario where field agents submit duplicate address verification jobs, resulting in unnecessary payouts. 
