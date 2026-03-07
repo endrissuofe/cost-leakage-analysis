@@ -19,7 +19,7 @@ Further root cause analysis revealed that a small cluster of field agents drove 
 
 *(See the chart below for the breakdown of the Top 10 Agents driving cost leakage)*
 
-![Top 10 Agents Driving Financial Leakage](top_10.png)
+![Top 10 Agents Driving Financial Leakage](Top_10.png)
 
 ## Core Analysis Workflow
 1. **Data Generation:** Created a dataset mimicking field agent submissions (`Verification_ID`, `Agent_ID`, `Payment_Amount`).
