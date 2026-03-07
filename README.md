@@ -15,7 +15,7 @@ The SQL analysis successfully identified duplicate verification jobs that bypass
 * **Total Duplicate Verification Jobs:** 500
 * **Total Estimated Financial Leakage:** ₦7,750.00
 
-Further root cause analysis revealed that a small cluster of field agents drove the majority of these errors. For instance, **AGT-035** alone was responsible for 18 duplicate submissions, resulting in $279.00 of leakage.
+Further root cause analysis revealed that a small cluster of field agents drove the majority of these errors. For instance, **AGT-035** alone was responsible for 18 duplicate submissions, resulting in ₦279.00 of leakage.
 
 *(See the chart below for the breakdown of the Top 10 Agents driving cost leakage)*
 
